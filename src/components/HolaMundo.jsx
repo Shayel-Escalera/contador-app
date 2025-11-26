@@ -9,3 +9,5 @@ const HolaMundoo = () => {
         </div>
     )
 }
+
+export default HolaMundoo;
